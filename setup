@@ -1,0 +1,20 @@
+//first we need to add the  following permission in the android manifest
+
+ <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    
+    
+    
+    
+    
+    //second set the compile sdk version to 33 to higher
+    
+    
+    //packages requied are
+    
+    //for location we need "location" package
+   
